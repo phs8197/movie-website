@@ -232,12 +232,6 @@
   .header h1 strong {
     left: 24px;
   }
-  .banner_menu .bm_left ul {
-    display: none;
-  }
-  .banner_menu .bm_right ul:first-child {
-    display: none;
-  }
 }
 @media (max-width: 960px) {
 }
