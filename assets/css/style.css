@@ -1551,6 +1551,7 @@
   .help article.help_box2,
   .help article.help_box3 {
     margin-top: 0;
+    padding: 24px 17px;
   }
   .movie_title ul {
     display: flex;
