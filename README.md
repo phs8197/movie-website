@@ -15,8 +15,10 @@
 ## 영화관 기업 메가박스 웹사이트를 리뉴얼하여 반응형으로 제작한 웹사이트입니다.
 
 <p align="justify">
-html, css, javascript을 이용하였고, animation, media query를 이용하여 반응형에 맞게 작업하였습니다.<br>
-피그마를 이용하여 디자인하였고, 챌린지 우수 프로젝트로 뽑히게 되어 뿌듯함을 느꼈던 프로젝트입니다.
+피그마를 이용하여 디자인을 하고 반응형에 맞게 작업하였습니다.<br>
+swiper 라이브러리를 이용하여 slider를 구성하였고 <br>
+IFrame Player API를 통해 웹사이트에 YouTube 동영상 플레이어를 퍼가고 <br>
+JavaScript를 사용하여 플레이어를 제어하였습니다.
 </p>
 
 
@@ -33,20 +35,15 @@ html, css, javascript을 이용하였고, animation, media query를 이용하여
 ## 구현 기능
 
 ### 기능 1
-media query<br> 
+swiper 라이브러리 이용하여 slider 구현<br> 
 ### 기능 2
-
+jquery를 이용하여 영화 탭 메뉴 구현<br> 
+class에 속성을 넣어주고 없애고 생성해주는 방식<br> 
 ### 기능 3
-
+Youtube 내 API를 통해 Iframe삼입<br> 
 ### 기능 4
+모달창을 생성하여 Iframe 동영상 닫기 열기 기능 구현<br> 
 
-<br>
-
-## 배운 점 & 아쉬운 점
-
-<p align="justify">
-
-</p>
 
 <br>
 
