@@ -2,9 +2,9 @@
 
 <p align="space-between" style="display: flex;">
   <br>
-  <img src="assets/img/301.png" width="58%" height="100%">
-  <img src="assets/img/302.png" width="29%" height="100%">
-  <img src="assets/img/303.png" width="18%" height="100%">
+  <img src="assets/img/301.png" width="56%" height="100%">
+  <img src="assets/img/302.png" width="26%" height="100%">
+  <img src="assets/img/303.png" width="16%" height="100%">
   <img src="assets/img/304.png" width="49%" height="100%">
   <img src="assets/img/305.png" width="49%" height="100%">
   <br>
