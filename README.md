@@ -51,9 +51,9 @@ media query<br>
 
 
 <!-- Stack Icon Refernces -->
-[html]: /image/stack/html.svg
-[css]: /image/stack/css.svg
-[figma]: /image/stack/figma.svg
-[ts]: /image/stack/typescript.svg
-[react]: /image/stack/react.svg
-[node]: /image/stack/node.svg
+[html]: assets/img/stack/html.svg
+[css]: assets/img/stack/css.svg
+[figma]: assets/img/stack/figma.svg
+[ts]: assets/img/stack/typescript.svg
+[react]: assets/img/stack/react.svg
+[node]: assets/img/stack/node.svg
