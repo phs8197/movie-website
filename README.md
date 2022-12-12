@@ -2,10 +2,11 @@
 
 <p align="space-between" style="display: flex;">
   <br>
-  <img src="./image/301.png" width="23%">
-  <img src="./image/302.png" width="23%">
-  <img src="./image/303.png" width="23%">
-  <img src="./image/304.png" width="23%">
+  <img src="assets/img/301.png" width="45%">
+  <img src="assets/img/302.png" width="20%">
+  <img src="assets/img/303.png" width="15%">
+  <img src="assets/img/304.png" width="45%">
+  <img src="assets/img/304.png" width="45%">
   <br>
 </p>
 
@@ -23,9 +24,9 @@ html, css, javascript을 이용하였고, animation, media query를 이용하여
 
 ## 기술 스택
 
-|    html    |     css    |     figma.   |
-| :--------: | :--------: | :--------:   |
-|  ![html]   |   ![css]   |   ![figma].  |
+|    html    |     css    |     figma.   |.    javascript.  |
+| :--------: | :--------: | :--------:   |     :--------:   |
+|  ![html]   |   ![css]   |   ![figma].  | ![javascript].   |
 
 <br>
 
@@ -57,3 +58,4 @@ media query<br>
 [ts]: assets/img/stack/typescript.svg
 [react]: assets/img/stack/react.svg
 [node]: assets/img/stack/node.svg
+[javascript]: assets/img/stack/javascript.svg
