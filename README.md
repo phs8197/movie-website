@@ -10,15 +10,14 @@
   <br>
 </p>
 
-목차
 
 ## 영화관 기업 메가박스 웹사이트를 리뉴얼하여 반응형으로 제작한 웹사이트입니다.
 
 <p align="justify">
 피그마를 이용하여 디자인을 하고 반응형에 맞게 작업하였습니다.<br>
 swiper 라이브러리를 이용하여 slider를 구성하였고 <br>
-IFrame Player API를 통해 웹사이트에 YouTube 동영상 플레이어를 퍼가고 <br>
-JavaScript를 사용하여 플레이어를 제어하였습니다.
+IFrame Player API를 통해 웹사이트에 YouTube 동영상 플레이어를 가져오고 <br>
+JavaScript를 사용하여 플레이어를 제어해주었습니다.
 </p>
 
 
