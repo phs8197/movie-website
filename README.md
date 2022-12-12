@@ -2,11 +2,11 @@
 
 <p align="space-between" style="display: flex;">
   <br>
-  <img src="assets/img/301.png" width="45%">
-  <img src="assets/img/302.png" width="20%">
+  <img src="assets/img/301.png" width="55%">
+  <img src="assets/img/302.png" width="25%">
   <img src="assets/img/303.png" width="15%">
-  <img src="assets/img/304.png" width="45%">
-  <img src="assets/img/304.png" width="45%">
+  <img src="assets/img/304.png" width="47%">
+  <img src="assets/img/305.png" width="47%">
   <br>
 </p>
 
